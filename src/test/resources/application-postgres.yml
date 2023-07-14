@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:tc:postgresql:13.2-alpine:///test
+    username: postgres
+    password: pass
+  test:
+    database:
+      replace: none
