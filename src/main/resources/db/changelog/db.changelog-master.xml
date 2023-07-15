@@ -19,4 +19,5 @@
 
     <include file="0.0.1/insert-authors-data.sql" relativeToChangelogFile="true"/>
     <include file="0.0.1/insert-articles-data.sql" relativeToChangelogFile="true"/>
+
 </databaseChangeLog>

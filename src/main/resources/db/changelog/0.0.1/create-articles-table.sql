@@ -1,4 +1,4 @@
--- liquidbase formatted sql
+-- liquibase formatted sql
 -- changeset nazar:2
 CREATE SEQUENCE IF NOT EXISTS article_sequence START WITH 1 INCREMENT BY 50;
 

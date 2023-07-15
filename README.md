@@ -13,7 +13,7 @@ This repository provides an example of using `Spring Boot`, `PostgreSQL`, `Liqui
 
 1. Clone the repository:
 
-* `git clone https://github.com/nazarchykur/sb-postgres-liquidbase.git`
+* `git clone https://github.com/nazarchykur/sb-postgres-liquibase.git`
 * `cd sb-postgres-liquibase`
 
 2. Build the project:
